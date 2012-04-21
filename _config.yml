@@ -12,9 +12,9 @@ pygments: true
 title : VIM valuate
 tagline: Evaluate vim tools and plugins
 author :
-  name : Mose
-  email : mose@codegreenit.com
-  github : mose
+  name : Codegreen
+  email : dev@codegreenit.com
+  github : codegreen
   twitter : cogtw
 
 # The production_url is only used when full-domain names are needed
