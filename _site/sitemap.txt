@@ -1,0 +1,10 @@
+
+http://mose.github.com/vim-valuate/index.html
+http://mose.github.com/vim-valuate/pages.html
+http://mose.github.com/vim-valuate/categories.html
+http://mose.github.com/vim-valuate/sitemap.txt
+http://mose.github.com/vim-valuate/atom.xml
+http://mose.github.com/vim-valuate/tags.html
+http://mose.github.com/vim-valuate/archive.html
+
+http://mose.github.com/vim-valuate/lessons/2011/12/29/jekyll-introduction

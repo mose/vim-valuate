@@ -1,4 +1,0 @@
-this is a test
-==================
-
-To see how it works
