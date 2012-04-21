@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>VIM valuate</title>
+ <link href="http://mose.github.com/vim-valuate/atom.xml" rel="self"/>
+ <link href="http://mose.github.com/vim-valuate"/>
+ <updated>2012-04-21T13:33:09+08:00</updated>
+ <id>http://mose.github.com/vim-valuate</id>
+ <author>
+   <name>Mose</name>
+   <email>mose@codegreenit.com</email>
+ </author>
+
+ 
+ 
+</feed>
